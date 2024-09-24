@@ -1,0 +1,54 @@
+.one.two p{
+    color:gold;  /* div */ 
+}
+.three>p{
+    color:powderblue; /*> indiactor*/
+}
+.four + .five p{
+    color:blue; /*Sibling*/
+}
+.six ~ p{
+    color:purple;  /*General sibling*/
+}
+.perecentage p{
+    width:100%;
+    height:100%;
+    background-color: turquoise;
+}
+.p1{
+    width:50%;
+    height:50%;
+    background-color: aqua;
+}
+.p2{
+    width:50%;
+    height:50%;
+    background-color: aquamarine;
+}
+.vwvh{
+    width:50vw;
+    height:50vh;
+    background-color: black;
+    color:white;
+    font-size: 70px;
+}
+.em{
+    width:10em;
+    background-color: gold;
+    color:black;
+    font-size: 70px;
+}
+.rem{
+    width:20rem;
+    height:20rem;
+    color:aqua;
+    background-color: black;
+    font-size:70px ;
+}
+.px{
+    width:500px;
+    height:350px;
+    color:green;
+    background-color: black;
+    font-size: 70px;
+}
